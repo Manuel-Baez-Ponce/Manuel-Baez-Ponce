@@ -1,2 +1,1 @@
-# Manuel Alejandro Baez Ponce
-## Embedded Jr. Developer and Electronic Designer
+![The banner of my profile](.\Imagenes\banner.png)
