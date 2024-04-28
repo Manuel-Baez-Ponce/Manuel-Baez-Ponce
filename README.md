@@ -14,8 +14,6 @@
 
 <h2>Programing Skills :</h2>
 
----
-
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -45,9 +43,7 @@
 ![Linux](https://img.shields.io/badge/Embeddded_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-8BC655?style=for-the-badge)
 
-<h2>Mechanical and Electronic Skills</h2>
-
----
+<h2>Mechanical and Electronic Skills:</h2>
 
 ![KiCAD](https://img.shields.io/badge/KiCAD-26368E?style=for-the-badge&logo=kicad&logoColor=white)
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A89663?style=for-the-badge&logo=altiumdesigner&logoColor=white)
@@ -63,6 +59,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Texas Instruments](https://img.shields.io/badge/Texas_Instruments-F90300?style=for-the-badge)
 ![WCH](https://img.shields.io/badge/WCH-00428D?style=for-the-badge)
+</br>
 ![ARM](https://img.shields.io/badge/ARM-0090BF?style=for-the-badge&logo=arm&logoColor=white)
 ![Risc V](https://img.shields.io/badge/Risc_V-F5B21B?style=for-the-badge&logo=riscv&logoColor=white)
 </br>
