@@ -1,18 +1,16 @@
-<h1 align=center>Hello! I'm Manuel Alejandro Baez Ponce</h1>
+<h1 style='text-align: center; color: green;'>Hello World! I'm Manuel Alejandro Baez Ponce</h1>
 
-![Banner](https://raw.githubusercontent.com/Manuel-Baez-Ponce/Manuel-Baez-Ponce/main/Imagenes/banner.png)
+<img src=https://raw.githubusercontent.com/Manuel-Baez-Ponce/Manuel-Baez-Ponce/main/Imagenes/banner.png>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-alejandro-baez-ponce/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](utp0009646@alumno.utpuebla.edu.mx)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https;//wa.me/message/DWJENGUP6W72|1)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
+<h3 align=center>Mechatronic Engineering student and, Junior Embedded Developer focused in firmware development and electronic design</h3>
 
-<h2 align=center>I'm a Mechatronic Engineering student and, an Embedded Jr. Developer specialized in firmware development and electronic design</h2>
+<p style='text-align: justify;'>I'm an enthusiast of electronics and code with experience in embedded systems development based in microcontrollers and/or FPGAs. I have participated in the developmet of some projects for industry and research, I like learn new things and experiment with new tecnologies and, currently I'm a professional licence graduated in embedded systems by the <a href=https://iut1.univ-grenoble-alpes.fr/iut1/accueil-962584.kjsp>Institute Universitaire Technologique 1 du Grenoble</a> and I'm finishing my Mechatronic Engineering Degree at <a href=https://www.utpuebla.edu.mx/identidad/index.html>Universidad Tecnológica de Puebla</a></p>
 
-<p style='text-align: justify;'>I'm just an enthusiast of electronics and code with some experience in embedded systems development based in microcontrollers and/or FPGAs. I have participated in the developmet of some projects for industry and research, I like learn new things and experiment with new tecnologies and, currently I'm a professional licence graduated in embedded systems by the Institute Universitaire Technologique 1 du Grenoble and I'm finishing my Mechatronic Engineering Degree at Universidad Tecnológica de Puebla</p>
+> 🛫 [Mex-Protec](https://mexprotec.iut.fr/) student 2020-2021 🛬
+> </br>
+> 💻 [Oracle Next Education](https://www.oracle.com/mx/education/oracle-next-education/) student 2024
 
-<h2>Programing Skills :</h2>
+<h2>⌨️ Programing Skills:</h2>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -43,7 +41,7 @@
 ![Linux](https://img.shields.io/badge/Embeddded_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-8BC655?style=for-the-badge)
 
-<h2>Mechanical and Electronic Skills:</h2>
+<h2>⚙️ Mechanical and Electronic Skills:</h2>
 
 ![KiCAD](https://img.shields.io/badge/KiCAD-26368E?style=for-the-badge&logo=kicad&logoColor=white)
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A89663?style=for-the-badge&logo=altiumdesigner&logoColor=white)
@@ -68,3 +66,14 @@
 </br>
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![BeagleBone](https://img.shields.io/badge/BeagleBone-A97F2C?style=for-the-badge)
+
+<h2>📪 Comtact me here:</h2>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-alejandro-baez-ponce/)
+[![Hackaday](https://img.shields.io/badge/Hackaday-black?style=for-the-badge&logo=hackaday&logoColor=white)
+](https://www.hackaday.io/ManuelAlejandro.BaezPonce)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+](https://www.github.com/Manuel-Baez-Ponce)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](utp0009646@alumno.utpuebla.edu.mx)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https;//wa.me/message/DWJENGUP6W72|1)
