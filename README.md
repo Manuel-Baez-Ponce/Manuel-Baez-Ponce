@@ -1,4 +1,4 @@
-<h1 style='text-align: center; color: green;'>Hello World! I'm Manuel Alejandro Baez Ponce</h1>
+<h1 align=center style='color: green;'>Hello World! I'm Manuel Alejandro Baez Ponce</h1>
 
 <img src=https://raw.githubusercontent.com/Manuel-Baez-Ponce/Manuel-Baez-Ponce/main/Imagenes/banner.png>
 
