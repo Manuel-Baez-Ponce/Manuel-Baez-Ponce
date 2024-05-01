@@ -1,4 +1,4 @@
-<h1 align=center style='color: green;'>Hello World! I'm Manuel Alejandro Baez Ponce</h1>
+<h1 align=centerg style='color: green;'>Hello World! I'm Manuel Alejandro Baez Ponce</h1>
 
 <img src=https://raw.githubusercontent.com/Manuel-Baez-Ponce/Manuel-Baez-Ponce/main/Imagenes/banner.png>
 
@@ -6,9 +6,7 @@
 
 <p style='text-align: justify;'>I'm an enthusiast of electronics and code with experience in embedded systems development based in microcontrollers and/or FPGAs. I have participated in the developmet of some projects for industry and research, I like learn new things and experiment with new tecnologies and, currently I'm a professional licence graduated in embedded systems by the <a href=https://iut1.univ-grenoble-alpes.fr/iut1/accueil-962584.kjsp>Institute Universitaire Technologique 1 du Grenoble</a> and I'm finishing my Mechatronic Engineering Degree at <a href=https://www.utpuebla.edu.mx/identidad/index.html>Universidad Tecnológica de Puebla</a></p>
 
-> 🛫 [Mex-Protec](https://mexprotec.iut.fr/) student 2020-2021 🛬
-> </br>
-> 💻 [Oracle Next Education](https://www.oracle.com/mx/education/oracle-next-education/) student 2024
+> <i>🛫 <a href=https://mexprotec.iut.fr>Mex-Protec</a> student 2020-2021 🛬</i> > </br> > <i>💻 <a href=https://www.oracle.com/mx/education/oracle-next-education>Oracle Next Education</a> student 2024</i>
 
 <h2>⌨️ Programing Skills:</h2>
 
@@ -67,13 +65,15 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![BeagleBone](https://img.shields.io/badge/BeagleBone-A97F2C?style=for-the-badge)
 
-<h2>📪 Comtact me here:</h2>
+<h2>📪 connect with me:</h2>
 
+> <b><i>Do you have a project in hand or a question? Don't hesitate to contact me and we can discuss it.</i></b>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utp0009646@alumno.utpuebla.edu.mx)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-alejandro-baez-ponce/)
 [![Hackaday](https://img.shields.io/badge/Hackaday-black?style=for-the-badge&logo=hackaday&logoColor=white)
 ](https://www.hackaday.io/ManuelAlejandro.BaezPonce)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 ](https://www.github.com/Manuel-Baez-Ponce)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](utp0009646@alumno.utpuebla.edu.mx)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https;//wa.me/message/DWJENGUP6W72|1)
