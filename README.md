@@ -81,4 +81,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manuel-Baez-Ponce&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&show=discussions_started)
 ![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel-Baez-Ponce&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&hide=css)
 </br>
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Manuel-Baez-Ponce&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Manuel-Baez-Ponce&theme=algolia&no-frame=false&no-bg=false&margin-w=0)
