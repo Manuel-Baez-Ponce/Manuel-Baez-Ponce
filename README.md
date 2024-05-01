@@ -71,10 +71,8 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utp0009646@alumno.utpuebla.edu.mx)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-alejandro-baez-ponce/)
-[![Hackaday](https://img.shields.io/badge/Hackaday-black?style=for-the-badge&logo=hackaday&logoColor=white)
-](https://www.hackaday.io/ManuelAlejandro.BaezPonce)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
-](https://www.github.com/Manuel-Baez-Ponce)
+[![Hackaday](https://img.shields.io/badge/Hackaday-black?style=for-the-badge&logo=hackaday&logoColor=white)](https://www.hackaday.io/ManuelAlejandro.BaezPonce)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/Manuel-Baez-Ponce)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https;//wa.me/message/DWJENGUP6W72|1)
 
