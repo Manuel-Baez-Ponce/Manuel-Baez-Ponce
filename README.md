@@ -65,7 +65,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![BeagleBone](https://img.shields.io/badge/BeagleBone-A97F2C?style=for-the-badge)
 
-<h2>📪 connect with me:</h2>
+<h2>📪 Connect with me:</h2>
 
 > <b><i>Do you have a project in hands or a question? Don't hesitate to contact me and we can discuss it.</i></b>
 
@@ -77,3 +77,11 @@
 ](https://www.github.com/Manuel-Baez-Ponce)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https;//wa.me/message/DWJENGUP6W72|1)
+
+<h2>📊 GitHub Stats, 📚 Languages, and 🏆 Trophies:</h2>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manuel-Baez-Ponce&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&show=discussions_started)
+</br>
+![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel-Baez-Ponce&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&hide=css)
+</br>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Manuel-Baez-Ponce&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
