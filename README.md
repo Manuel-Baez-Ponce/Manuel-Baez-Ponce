@@ -78,7 +78,11 @@
 
 <h2>📊 GitHub Stats, 📚 Languages, and 🏆 Trophies:</h2>
 
+<div align=center>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manuel-Baez-Ponce&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&show=discussions_started)
 ![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel-Baez-Ponce&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&hide=css)
 </br>
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Manuel-Baez-Ponce&theme=algolia&no-frame=false&no-bg=false&margin-w=0)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Manuel-Baez-Ponce&rank=-?&theme=algolia)
+
+</div>
