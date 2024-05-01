@@ -1,4 +1,4 @@
-<h1 align=centerg style='color: green;'>Hello World! I'm Manuel Alejandro Baez Ponce</h1>
+<h1 align=center style='color: green;'>Hello World! I'm Manuel Alejandro Baez Ponce</h1>
 
 <img src=https://raw.githubusercontent.com/Manuel-Baez-Ponce/Manuel-Baez-Ponce/main/Imagenes/banner.png>
 
@@ -67,7 +67,7 @@
 
 <h2>📪 connect with me:</h2>
 
-> <b><i>Do you have a project in hand or a question? Don't hesitate to contact me and we can discuss it.</i></b>
+> <b><i>Do you have a project in hands or a question? Don't hesitate to contact me and we can discuss it.</i></b>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utp0009646@alumno.utpuebla.edu.mx)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-alejandro-baez-ponce/)
