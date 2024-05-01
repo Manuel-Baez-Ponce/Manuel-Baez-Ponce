@@ -6,7 +6,7 @@
 
 <p style='text-align: justify;'>I'm an enthusiast of electronics and code with experience in embedded systems development based in microcontrollers and/or FPGAs. I have participated in the developmet of some projects for industry and research, I like learn new things and experiment with new tecnologies and, currently I'm a professional licence graduated in embedded systems by the <a href=https://iut1.univ-grenoble-alpes.fr/iut1/accueil-962584.kjsp>Institute Universitaire Technologique 1 du Grenoble</a> and I'm finishing my Mechatronic Engineering Degree at <a href=https://www.utpuebla.edu.mx/identidad/index.html>Universidad Tecnológica de Puebla</a></p>
 
-> <i>🛫 <a href=https://mexprotec.iut.fr>Mex-Protec</a> student 2020-2021 🛬</i> > </br> > <i>💻 <a href=https://www.oracle.com/mx/education/oracle-next-education>Oracle Next Education</a> student 2024</i>
+> <i>🛫 <a href=https://mexprotec.iut.fr>Mex-Protec</a> student 2020-2021 🛬 and 💻 <a href=https://www.oracle.com/mx/education/oracle-next-education>Oracle Next Education</a> student 2024</i>
 
 <h2>⌨️ Programing Skills:</h2>
 
